@@ -1,0 +1,22 @@
+{
+  "name": "rapsodo_mancala_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "mancala": "file:public/js/mancala",
+    "mongodb": "^3.6.3",
+    "socket.io": "^3.0.4",
+    "socket.io-client": "^3.0.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
